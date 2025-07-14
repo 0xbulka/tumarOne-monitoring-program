@@ -2,4 +2,4 @@ tokens.json
 .env
 __pycache__
 tumar-bot-venv
-known_program_id.json
+known_program_ids.json
