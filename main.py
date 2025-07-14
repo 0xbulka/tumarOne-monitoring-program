@@ -73,6 +73,7 @@ async def monitor():
                 f"*Name:* {prog['name']}\n"
                 f"*Reports:* {prog['reports']['count']}\n"
                 f"*Description:* {prog['shortDescription']}\n"
+                f"*Max Payout:* {prog['maxPayout']}\n"
                 f"*Created:* {prog['created'].split('T')[0]}\n"
                 f"[View logo]({prog['logo']})"
             )
