@@ -1,0 +1,683 @@
+{
+  "data": {
+    "projects": {
+      "list": [
+        {
+          "id": 2,
+          "name": "Cybersec",
+          "shortDescription": "Official website of the Center for Analysis and Investigation of Cyber Attacks",
+          "logo": "https://files.bugbounty.kz/webtotem/files/dyEyQDE9UmM0TEVXDkkw_I86I64nkv_Jmn_InYV1Z9769dOaMJLhRu2iuNP64pc2iNg",
+          "banner": "https://files.bugbounty.kz/webtotem/files/JFQ-VDE_JHgxYmZSEwQg-tg1Mr9COXlyZ9nWgeFcht7eWK4TqwTs9r6zbz3VetvanClegKXXvpUgC-Majanj6g",
+          "contacts": null,
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 4,
+            "total": 28
+          },
+          "created": "2020-11-25T08:51:58.047Z"
+        },
+        {
+          "id": 3,
+          "name": "CERT",
+          "shortDescription": "Security information portal CERT.kz (TSARKA)",
+          "logo": "https://files.bugbounty.kz/webtotem/files/P1ZmU0FwaCpZYT88v6nV8Y8iipNclM0iqHMIzz3dWqJaZI4UyKMX9Ni0pRB0UbTKEyQ",
+          "banner": "https://files.bugbounty.kz/webtotem/files/RXNnSjlqJD9xdUhxj_3_uz4bPjA1TrKnt4bnrNzT_0ce6u6b4in6hPZgvWm-lRyROQXo21Qg0rELkr8v",
+          "contacts": null,
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 9,
+            "total": 25
+          },
+          "created": "2020-11-25T08:57:34.542Z"
+        },
+        {
+          "id": 1,
+          "name": "WebTotem",
+          "shortDescription": "WebTotem is a security monitoring tool for websites, protecting businesses from intrusion and ever-evolving cyber threats.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/OU1Ad1FNTTxJM1Flz6fxfnQ-y1xY6CwSfQaSCUhMy-p6WBG8sC63KxzpOlnB8rJW-DM",
+          "banner": "https://files.bugbounty.kz/webtotem/files/USVmLCY8MlJnVHEyrHyW1YLJ3WHQQSNT9IqVU7TKmRsPM9b-UROGx0gpuiXzgIGakKlysCeR_5i9dBSF",
+          "contacts": null,
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 4,
+            "total": 45
+          },
+          "created": "2020-11-25T08:43:06.391Z"
+        },
+        {
+          "id": 6,
+          "name": "NITEC",
+          "shortDescription": "National Information Technologies JSC (NIT JSC) is the largest company in the information technology market of Kazakhstan.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/VnFwPFVWMjYzIT4krJ7xThRvJVQiT7t9y6n9hBeyZENVdOCL1xv_p5oGGDJhTZ-K9Do",
+          "banner": "https://files.bugbounty.kz/webtotem/files/IU89cDhtRWdSSTV37LyT4jjqEVMWk66d88DyEiWEbk3b5qfLdzWIvXCAhRbL-4QLmb1D9GD7bY9taHby",
+          "contacts": null,
+          "private": false,
+          "maxPayout": 1000,
+          "reports": {
+            "count": 197,
+            "total": 373
+          },
+          "created": "2020-12-04T05:43:06.925Z"
+        },
+        {
+          "id": 9,
+          "name": "TumarOne",
+          "shortDescription": "TumarOne is the leading platform in Central Asia for rewarding security vulnerability discoveries in services and applications.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/VWRhI009NndkJXhDQX-d-nfppJ1kd2CxBmERAEhhmKFs2NARyY7AbsTZCosmAhALtbA",
+          "banner": "https://files.bugbounty.kz/webtotem/files/SXlpaD9qVT0-SCE20fUm8RZTvccNimmLfISWbB0KWlQGtGhAqVmSFDDIADMXZBUXIxRYHKYgAfpp3S5BYNGE2A",
+          "contacts": null,
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 23,
+            "total": 144
+          },
+          "created": "2020-12-04T15:49:39.936Z"
+        },
+        {
+          "id": 18,
+          "name": "Kaspi.kz",
+          "shortDescription": "Kaspi.kz - the largest Payments, Marketplace and Fintech Ecosystem in Kazakhstan",
+          "logo": "https://files.bugbounty.kz/webtotem/files/Q0dpdEVFeHUjaVB5LC5BEUnw5fC37RnxitUrqDdVu8XBdmUbqARLBojhrsxwJLmsgYs",
+          "banner": "https://files.bugbounty.kz/webtotem/files/WFYzVkkmPT9Yd0sqAcqCXOngHRFgFLNQ4P5135RDC8aNjxgpo9ul1XgYBIBh-vsPRrAU-IpL-DI",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 400,
+          "reports": {
+            "count": 59,
+            "total": 122
+          },
+          "created": "2022-05-12T09:57:32.780102Z"
+        },
+        {
+          "id": 27,
+          "name": "Ministry of Internal Affairs of the Republic of Kazakhstan",
+          "shortDescription": "A program that will help to improve security of information systems of Ministry of Internal Affairs of the Republic of Kazakhstan",
+          "logo": "https://files.bugbounty.kz/webtotem/files/ZktXWEtXQUA8PXo-8CkTpuKPMpAtnKB2I86DPa6dCTDGYc40YBM0cZ7_0FUwk4XBJAHYrg",
+          "banner": "https://files.bugbounty.kz/webtotem/files/M1ZSVWRhI009NndkEundWvel20izqhujhNAObeZDC1gKevwZXnz8iOjp9zSTUcwBlhuatAYpptAIwKU-cdU",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 200,
+          "reports": {
+            "count": 24,
+            "total": 93
+          },
+          "created": "2023-10-10T05:15:10.927813Z"
+        },
+        {
+          "id": 33,
+          "name": "Medical information system «DMed» («Damumed»)",
+          "shortDescription": "Medical information system «DMed» is a software in the field of medicine that allows digitalizing medical processes.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/IWFiPGlEbjxIdU410S8d1fLmJWTq_rtCw2OroHY3p0yNb4vZFIMXZ5XV8etXJWb5NeC__VJU",
+          "banner": "https://files.bugbounty.kz/webtotem/files/ZWhyJFU2JD1lLiR1prddVtbHgEX7Go82f0bWTEmDjl_9qb4xm10297IwALo-7d2IJEFB5wkCrn8",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 5,
+            "total": 28
+          },
+          "created": "2024-09-19T09:32:33.627494Z"
+        },
+        {
+          "id": 32,
+          "name": "Kompanion Bank CJSC",
+          "shortDescription": "Kompanion Bank provides financial as well as non-financial services",
+          "logo": "https://files.bugbounty.kz/webtotem/files/WFYzL0A9Vk84SEREFnGx53zfVXXwPnnGp5T8BYgxpIUsYWHErZR1_r7a6huFO9g4ei3_pLzzJ--",
+          "banner": "https://files.bugbounty.kz/webtotem/files/UGZUSWYhN05WNTlpGB0JSClVcIgt6QpWmWP7OtjXROAKIMTAcPzPfVrpOH3l_uHAHYrud5RL3m86yGEWJeNTkMLB",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 1000,
+          "reports": {
+            "count": 11,
+            "total": 33
+          },
+          "created": "2024-07-19T10:55:05.019435Z"
+        },
+        {
+          "id": 16,
+          "name": "Development Bank of Kazakhstan",
+          "shortDescription": "Development Bank of Kazakhstan JSC contributes to sustainable development of the national economy by investing in the country’s non-resource sector.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/UFdYd3E4aCxodGlVAARuUwOy3vM53-JOb2Is7miHlstmyPHAmPiJE9KylmKySe2ulKs",
+          "banner": "https://files.bugbounty.kz/webtotem/files/QlVFcEgvQW4jTjYmcwCUd0L-4Q0KRwirxP6z6vOosTr8puXZHd9Ig0cBj_tmpXUx9d3yKa-kh3yBk5N8",
+          "contacts": null,
+          "private": false,
+          "maxPayout": 200,
+          "reports": {
+            "count": 19,
+            "total": 34
+          },
+          "created": "2021-11-05T11:02:53.545193Z"
+        },
+        {
+          "id": 26,
+          "name": "Commercial bank KYRGYZSTAN  | MBANK",
+          "shortDescription": "Banking, cash and settlement services, non-cash payments, loans, operations with precious metals and etc.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/PkokcUZ4cXJOMlxFoNyr9tdIWFto0NecgzrKw9pX-EjDex1XVyz657j65e1171DBAK5DDRurNbEA",
+          "banner": "https://files.bugbounty.kz/webtotem/files/MHQ-U1xVVDE4MGVL8v1xb9DFnjsJPo9cHtlV8FxTYJ_9yuQdXstX3S-4J4jit8tRuiIWGqXU2A",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 1500,
+          "reports": {
+            "count": 46,
+            "total": 73
+          },
+          "created": "2023-05-04T18:03:51.038521Z"
+        },
+        {
+          "id": 999,
+          "name": "US DoD Bug Bounty Program",
+          "shortDescription": "The official bug bounty program for the United States Department of Defense, inviting researchers to identify and report vulnerabilities in DoD systems.",
+          "logo": "https://example.com/pentagon_logo.png",
+          "banner": "https://example.com/pentagon_banner.png",
+          "contacts": "hackerone.com/dod",
+          "private": false,
+          "maxPayout": 100000,
+          "reports": {
+            "count": 1234,
+            "total": 5678
+          },
+          "created": "2023-01-15T10:00:00.000Z"
+        },
+        {
+          "id": 1000,
+          "name": "NASA Cybersecurity Program",
+          "shortDescription": "Secure the future of space exploration by identifying vulnerabilities in NASA's critical IT systems and spacecraft software.",
+          "logo": "https://example.com/nasa_logo.png",
+          "banner": "https://example.com/nasa_banner.png",
+          "contacts": "nasa.gov/security",
+          "private": false,
+          "maxPayout": 75000,
+          "reports": {
+            "count": 876,
+            "total": 3210
+          },
+          "created": "2024-03-01T09:00:00.000Z"
+        },
+        {
+          "id": 1001,
+          "name": "SpaceX Security Rewards",
+          "shortDescription": "Help us build the multi-planetary future by finding and reporting security flaws in Starlink, Starship, and Falcon programs.",
+          "logo": "https://example.com/spacex_logo.png",
+          "banner": "https://example.com/spacex_banner.png",
+          "contacts": "security@spacex.com",
+          "private": false,
+          "maxPayout": 150000,
+          "reports": {
+            "count": 1543,
+            "total": 6789
+          },
+          "created": "2024-06-20T14:30:00.000Z"
+        },
+        {
+          "id": 1002,
+          "name": "Global Cyber Defense Initiative",
+          "shortDescription": "An international collaboration to identify and mitigate cyber threats targeting critical infrastructure worldwide.",
+          "logo": "https://example.com/global_cyber_logo.png",
+          "banner": "https://example.com/global_cyber_banner.png",
+          "contacts": "contact@globalcyberdefense.org",
+          "private": false,
+          "maxPayout": 200000,
+          "reports": {
+            "count": 2500,
+            "total": 8000
+          },
+          "created": "2025-07-13T13:30:00.000Z"
+        },
+        {
+          "id": 1003,
+          "name": "Test Program Alpha",
+          "shortDescription": "This is a temporary test program for demonstrating new feature alerts.",
+          "logo": "https://example.com/test_logo.png",
+          "banner": "https://example.com/test_banner.png",
+          "contacts": "test@example.com",
+          "private": false,
+          "maxPayout": 100,
+          "reports": {
+            "count": 0,
+            "total": 0
+          },
+          "created": "2025-07-13T13:43:02.000Z"
+        },
+        {
+          "id": 1004,
+          "name": "Beta Test Initiative",
+          "shortDescription": "Exploring new boundaries in software security with a limited group of elite researchers.",
+          "logo": "https://example.com/beta_logo.png",
+          "banner": "https://example.com/beta_banner.png",
+          "contacts": "beta@example.com",
+          "private": true,
+          "maxPayout": 2500,
+          "reports": {
+            "count": 5,
+            "total": 10
+          },
+          "created": "2025-07-13T13:46:41.000Z"
+        },
+        {
+          "id": 52,
+          "name": "Halyk online banking services",
+          "shortDescription": "Halyk SuperApp & Onlinebank are innovative digital platforms offering a wide range of banking services in Kazakhstan.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/b05xV2RVM0cxdCNuk5mULfHXOisnknZYVvPOpssvAk1z5W-9Z7SPa27PJaLall7gpuH4Huy-CULzDQ",
+          "banner": "https://files.bugbounty.kz/webtotem/files/c0dqM2hTSDZsa0JBrZ-JX3TKkJDa0QKJdzwAq92T-gTIq6wpM50ah5JK3l14duC2zEfmOpBxieY",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 1000,
+          "reports": {
+            "count": 17,
+            "total": 44
+          },
+          "created": "2025-01-30T12:39:28.030196Z"
+        },
+        {
+          "id": 74,
+          "name": "Qaznet Education Sector",
+          "shortDescription": "A program aimed at enhancing the cybersecurity of educational information systems across Kazakhstan.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/THE_WEJSIzZ4ZDZ33FiXjh4z5auVr5nBN4rLQflLS6LIe2VFxqA8vocZ3Y2gfo_qVPTQQvM",
+          "banner": "https://files.bugbounty.kz/webtotem/files/bSFsNU5SUVBmb2JtMyNSX33CUvMfKuBoTkjIgStQVfp-j3vplmCdRboLFVKB_DpIF_m-3_AJVQnSs9gaxB0X",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 258,
+            "total": 373
+          },
+          "created": "2025-06-12T16:52:05.571119Z"
+        },
+        {
+          "id": 228,
+          "name": "Kazakhstan Digital Hub",
+          "shortDescription": "A national initiative to enhance the cybersecurity of critical digital infrastructure and foster local talent in Kazakhstan.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/kazakh_digital_hub_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/kazakh_digital_hub_banner.png",
+          "contacts": "info@digitalhub.kz",
+          "private": false,
+          "maxPayout": 750,
+          "reports": {
+            "count": 92,
+            "total": 185
+          },
+          "created": "2025-07-14T13:14:11.000Z"
+        },
+        {
+          "id": 1005,
+          "name": "KFU Cyber Guard",
+          "shortDescription": "Kazan Federal University's bug bounty program for securing its digital infrastructure, including student portals, research systems, and online learning platforms.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/kfu_cyber_guard_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/kfu_cyber_guard_banner.png",
+          "contacts": "security@kpfu.ru",
+          "private": false,
+          "maxPayout": 500,
+          "reports": {
+            "count": 15,
+            "total": 45
+          },
+          "created": "2025-07-14T13:03:25.000Z"
+        },
+        {
+          "id": 30,
+          "name": "Kcell",
+          "shortDescription": "«Kcell» — a mobile operator in Kazakhstan.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/OSVkUlpkRz5SSlBZeMXmuuoQGwm2zLZMb_ylh1zXpJok_-MNbbahK-EaUlmpvDV4nbzX5j_H6zYho0k",
+          "banner": "https://files.bugbounty.kz/webtotem/files/WUJKSXUzMlY2ckFT2qVtd_9zbhMRJo814VcCeMQAyGjtaab33tIaFBsMajqeB9RcuUoAWdxQjnt3oeePz8c",
+          "contacts": "https://www.linkedin.com/company/kcell-jsc/",
+          "private": false,
+          "maxPayout": 1000,
+          "reports": {
+            "count": 26,
+            "total": 80
+          },
+          "created": "2023-12-07T11:24:03.970278Z"
+        },
+        {
+          "id": 73,
+          "name": "Qaznet Government Sector",
+          "shortDescription": "A program that will help to improve security of gov information systems in Kazakhstan",
+          "logo": "https://files.bugbounty.kz/webtotem/files/RzV4NGl0ZEUhQzNvojfPq6YWwCJjNCPhtZlj4cZ0-kbqM-MBkdWm7DiqbYGXugY_PlCwmD8",
+          "banner": "https://files.bugbounty.kz/webtotem/files/WDxBLGxAazNTIVBPVet6m0u-9BhM20SXjClnnb_asJ9lIeC1N-Vog-S2X9W1cXJMaUx8j4NKgF2PZ5-2NbHy",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 104,
+            "total": 142
+          },
+          "created": "2025-06-12T16:49:40.474718Z"
+        },
+        {
+          "id": 10,
+          "name": "Qaznet Financial Sector",
+          "shortDescription": "A program that will help to improve security of information systems in Kazakhstan",
+          "logo": "https://files.bugbounty.kz/webtotem/files/aEBrIURlbVBuQmMsjks3kzUxnfz0XHuGodIY0RnuApTZw1Vqe0Rm2rkkUzhBcqe1xY8",
+          "banner": "https://files.bugbounty.kz/webtotem/files/JTU8PXY1dzxBPDZcnVbPZE5eP3mnH5lH7UxTk6iKGOJAjZnQqvffXFZ_0yRjmEAiKbJprat_-yprmnKI",
+          "contacts": null,
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 162,
+            "total": 242
+          },
+          "created": "2021-05-29T16:51:14.849682Z"
+        },
+        {
+          "id": 7,
+          "name": "QazNet",
+          "shortDescription": "A program that will help to improve security of information systems in Kazakhstan",
+          "logo": "https://files.bugbounty.kz/webtotem/files/NSxcWnZkZHMkZEIwyERxh4n2st9wqjxafJFeEW3FYaW8zgTrhULQVXLDIUhWJD33onw",
+          "banner": "https://files.bugbounty.kz/webtotem/files/TFN1SlEmU0JmPE1mNZgW3rREztaGb5JepSrkQ_yvrBpwm72apCXSdH8aT4DcYbqV3Upbngvy4U_jPZxr",
+          "contacts": null,
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 1078,
+            "total": 1743
+          },
+          "created": "2020-12-04T05:46:58.202Z"
+        },
+        {
+          "id": 69,
+          "name": "QazPost.kz",
+          "shortDescription": "Now we are your reliable assistant in all postal and logistics matters!",
+          "logo": "https://files.bugbounty.kz/webtotem/files/TUk2ZU5qP3A2OSFAijtkl2Jqh9xeLUsbS9UfolXGsLghiprRizLf14J1SOjjhphW8CCsTLFExteZ7A",
+          "banner": "https://files.bugbounty.kz/webtotem/files/M2JtZUgyITNHLi5oKA9zHC8oYogQgAzStQeg-yDFrfHkMWjG17sTPXj0rE1ptFGeSp9gQIn75aBb",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 5,
+            "total": 13
+          },
+          "created": "2025-03-19T09:49:44.862641Z"
+        },
+        {
+          "id": 75,
+          "name": "Qaznet Industrial Sector",
+          "shortDescription": "A program aimed at enhancing the cybersecurity of information systems in Kazakhstan’s Industrial sector (including oil & gas, mining, metallurgy, and energy).",
+          "logo": "https://files.bugbounty.kz/webtotem/files/MXklbGRuP3BoWnZYUEmSZgiPNGVvVr43y1TlvTXzSsJxWQNNPiQN__iDAx-gH-F9s23OCo8",
+          "banner": "https://files.bugbounty.kz/webtotem/files/SEcjTFVqR1omdiFYsINMDmy8Nz5AdlwwGnBbfywUIyVlDoau0kevN76HU5dWNHrNWoUUh7mdZ3-hXhY38lJK",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 76,
+            "total": 97
+          },
+          "created": "2025-06-12T16:55:31.274483Z"
+        },
+        {
+          "id": 13212,
+          "name": "EZEZEZEZ",
+          "shortDescription": "EZEZEZEZEZEZEZ",
+          "logo": "EZEZEZEZEZ",
+          "banner": ".",
+          "contacts": "",
+          "private": false,
+          "maxPayout": 0,
+          "reports": {
+            "count": 5,
+            "total": 13
+          },
+          "created": "2025-03-19T09:49:44.862641Z"
+        },
+        {
+          "id": 99,
+          "name": "SecureLink Network Solutions",
+          "shortDescription": "Providing advanced cybersecurity solutions for corporate networks and critical infrastructure protection.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/securelink_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/securelink_banner.png",
+          "contacts": "info@securelink.kz",
+          "private": false,
+          "maxPayout": 5000,
+          "reports": {
+            "count": 78,
+            "total": 150
+          },
+          "created": "2025-07-12T13:50:39.999Z"
+        },
+        {
+          "id": 1006,
+          "name": "KazFinSec Shield",
+          "shortDescription": "Enhancing the cybersecurity posture of Kazakhstan's financial institutions, including banks, payment systems, and fintech companies.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/kazfinsec_shield_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/kazfinsec_shield_banner.png",
+          "contacts": "security@kazfinsec.kz",
+          "private": false,
+          "maxPayout": 1500,
+          "reports": {
+            "count": 110,
+            "total": 280
+          },
+          "created": "2025-07-14T13:23:15.000Z"
+        },
+        {
+          "id": 1007,
+          "name": "Industrial Control Systems (ICS) Protect KZ",
+          "shortDescription": "Dedicated to securing Kazakhstan's critical industrial control systems and operational technology (OT) across energy, manufacturing, and utilities.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/ics_protect_kz_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/ics_protect_kz_banner.png",
+          "contacts": "otsecurity@kz-infra.org",
+          "private": false,
+          "maxPayout": 2500,
+          "reports": {
+            "count": 75,
+            "total": 190
+          },
+          "created": "2025-07-14T13:24:15.000Z"
+        },
+        {
+          "id": 1008,
+          "name": "E-Gov Cyber Resilience",
+          "shortDescription": "Strengthening the cybersecurity of Kazakhstan's e-government services and national digital platforms.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/egov_cyber_resilience_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/egov_cyber_resilience_banner.png",
+          "contacts": "cybersec@egov.kz",
+          "private": false,
+          "maxPayout": 800,
+          "reports": {
+            "count": 140,
+            "total": 350
+          },
+          "created": "2025-07-14T13:25:15.000Z"
+        },
+        {
+          "id": 1009,
+          "name": "TelecomGuard KZ",
+          "shortDescription": "Protecting Kazakhstan's telecommunications infrastructure, including mobile networks, internet service providers, and communication hubs.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/telecomguard_kz_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/telecomguard_kz_banner.png",
+          "contacts": "info@telecomguard.kz",
+          "private": false,
+          "maxPayout": 1200,
+          "reports": {
+            "count": 60,
+            "total": 130
+          },
+          "created": "2025-07-14T13:26:15.000Z"
+        },
+        {
+          "id": 1010,
+          "name": "KazMedSecure",
+          "shortDescription": "Securing medical information systems and healthcare digital platforms across Kazakhstan, ensuring patient data privacy and system integrity.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/kazmedsecure_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/kazmedsecure_banner.png",
+          "contacts": "support@kazmedsecure.kz",
+          "private": false,
+          "maxPayout": 700,
+          "reports": {
+            "count": 40,
+            "total": 90
+          },
+          "created": "2025-07-14T13:27:15.000Z"
+        },
+        {
+          "id": 1011,
+          "name": "TransportNet Shield KZ",
+          "shortDescription": "A program focused on the cybersecurity of Kazakhstan's transportation networks, including railways, airports, and logistics systems.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/transportnet_shield_kz_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/transportnet_shield_kz_banner.png",
+          "contacts": "security@transportnet.kz",
+          "private": false,
+          "maxPayout": 900,
+          "reports": {
+            "count": 55,
+            "total": 115
+          },
+          "created": "2025-07-14T13:28:15.000Z"
+        },
+        {
+          "id": 1012,
+          "name": "KazAgroCyber",
+          "shortDescription": "Protecting digital systems in Kazakhstan's agricultural sector, including smart farming technologies and supply chain management.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/kazagrcyber_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/kazagrcyber_banner.png",
+          "contacts": "info@kazagrocyber.kz",
+          "private": false,
+          "maxPayout": 600,
+          "reports": {
+            "count": 30,
+            "total": 65
+          },
+          "created": "2025-07-14T13:29:15.000Z"
+        },
+        {
+          "id": 1013,
+          "name": "MiningCyber Guard KZ",
+          "shortDescription": "Enhancing the cybersecurity of mining operations and related IT/OT infrastructure in Kazakhstan's resource-rich regions.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/miningcyber_guard_kz_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/miningcyber_guard_kz_banner.png",
+          "contacts": "security@miningguard.kz",
+          "private": false,
+          "maxPayout": 1800,
+          "reports": {
+            "count": 85,
+            "total": 210
+          },
+          "created": "2025-07-14T13:30:15.000Z"
+        },
+        {
+          "id": 1014,
+          "name": "KazCloud Fortress",
+          "shortDescription": "Securing cloud services and data centers operating within Kazakhstan, focusing on national data sovereignty and integrity.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/kazcloud_fortress_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/kazcloud_fortress_banner.png",
+          "contacts": "cloudsecurity@kazcloud.kz",
+          "private": false,
+          "maxPayout": 2000,
+          "reports": {
+            "count": 120,
+            "total": 300
+          },
+          "created": "2025-07-14T13:31:15.000Z"
+        },
+        {
+          "id": 1015,
+          "name": "SmartCity Cyber Defenses KZ",
+          "shortDescription": "Protecting smart city infrastructure components in Kazakhstan, including IoT devices, traffic management systems, and public services platforms.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/smartcity_cyber_defenses_kz_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/smartcity_cyber_defenses_kz_banner.png",
+          "contacts": "smartcity-security@kz.gov",
+          "private": false,
+          "maxPayout": 1000,
+          "reports": {
+            "count": 65,
+            "total": 140
+          },
+          "created": "2025-07-14T13:32:15.000Z"
+        },
+        {
+          "id": 1016,
+          "name": "Atyrau Oil & Gas Security",
+          "shortDescription": "A specialized bug bounty program for securing critical IT/OT systems in the Atyrau region's oil and gas infrastructure.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/atyrau_oil_gas_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/atyrau_oil_gas_banner.png",
+          "contacts": "security@atyrau-oil.kz",
+          "private": false,
+          "maxPayout": 3000,
+          "reports": {
+            "count": 45,
+            "total": 90
+          },
+          "created": "2025-07-14T13:40:15.000Z"
+        },
+        {
+          "id": 1017,
+          "name": "Kazakh Tourism Cyber Shield",
+          "shortDescription": "Enhancing the cybersecurity of digital platforms and services for Kazakhstan's tourism sector, protecting visitor data and national tourism infrastructure.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/kazakh_tourism_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/kazakh_tourism_banner.png",
+          "contacts": "info@kaztour-security.kz",
+          "private": false,
+          "maxPayout": 500,
+          "reports": {
+            "count": 20,
+            "total": 50
+          },
+          "created": "2025-07-14T13:41:15.000Z"
+        },
+        {
+          "id": 1018,
+          "name": "Digital Customs KZ",
+          "shortDescription": "Securing Kazakhstan's digital customs systems, aiming to protect trade data and enhance border security through vulnerability research.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/digital_customs_kz_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/digital_customs_kz_banner.png",
+          "contacts": "customs.security@gov.kz",
+          "private": false,
+          "maxPayout": 800,
+          "reports": {
+            "count": 35,
+            "total": 70
+          },
+          "created": "2025-07-14T13:42:15.000Z"
+        },
+        {
+          "id": 1019,
+          "name": "KazSat Cyber Protection",
+          "shortDescription": "A program dedicated to ensuring the cybersecurity of Kazakhstan's satellite communication systems (KazSat) and ground control infrastructure.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/kazsat_cyber_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/kazsat_cyber_banner.png",
+          "contacts": "space.security@kazcos.kz",
+          "private": false,
+          "maxPayout": 5000,
+          "reports": {
+            "count": 15,
+            "total": 40
+          },
+          "created": "2025-07-14T13:43:15.000Z"
+        },
+        {
+          "id": 1020,
+          "name": "National Data Center Secure",
+          "shortDescription": "Focused on the cybersecurity of Kazakhstan's national data centers, ensuring the integrity and confidentiality of government and critical public data.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/national_data_center_logo.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/national_data_center_banner.png",
+          "contacts": "ndc.security@digital.kz",
+          "private": false,
+          "maxPayout": 2200,
+          "reports": {
+            "count": 90,
+            "total": 250
+          },
+          "created": "2025-07-14T13:44:15.000Z"
+        },
+        {
+          "id": 1263123,
+          "name": "test name",
+          "shortDescription": "test description.",
+          "logo": "https://files.bugbounty.kz/webtotem/files/test.png",
+          "banner": "https://files.bugbounty.kz/webtotem/files/test.png",
+          "contacts": "test.security@digital.kz",
+          "private": false,
+          "maxPayout": 2200,
+          "reports": {
+            "count": 90,
+            "total": 250
+          },
+          "created": "2025-07-14T13:44:15.000Z"
+        }
+      ]
+    }
+  }
+}
